@@ -33,13 +33,13 @@ export default function HomeHero() {
       <Navbar />
       <div className="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-12 lg:gap-20 max-w-[90%] mx-auto pt-28 lg:pt-40">
         {/* LEFT SIDE */}
-        <div className="w-full lg:w-1/2 text-center lg:text-left">
-          <h1 className="text-4xl sm:text-5xl lg:text-7xl text-white font-bold leading-tight mb-6">
+        <div className="w-full lg:w-2/3 text-center lg:text-left ">
+          <h1 className="text-4xl sm:text-5xl lg:text-7xl text-white font-bold leading-tight tracking-wider mb-6">
             AI tool to create <br />
             SEO content. <br />
             No fixing.
           </h1>
-          <p className="text-gray-400 text-base sm:text-lg max-w-lg mx-auto lg:mx-0 mb-6">
+          <p className="text-gray-400 text-base sm:text-xl xl:text-2xl max-w-2xl mx-auto lg:mx-0 mb-6">
             Generic AI tools give you drafts. Verbite delivers publish-ready, high-ranking content thanks to{" "}
             <span className="font-semibold text-white">specialized AI Agents</span>.
           </p>
