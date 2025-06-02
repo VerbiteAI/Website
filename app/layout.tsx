@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Verbite - AI tool to create SEO content",
-  description: "Generic AI tools give you drafts. Verbite delivers publish-ready, high-ranking content thanks to specialized AI Agents.",
+  description: "Generic AI tools give you drafts. Verbite delivers publish-ready, high-ranking content thanks to specialized AI Agents",
 };
 
 export default function RootLayout({
